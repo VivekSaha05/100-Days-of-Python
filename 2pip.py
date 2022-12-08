@@ -1,13 +1,14 @@
 # Installing Packages In Python
 
-#2 types of packages are their:
+# 2 types of packages are their:
 # (i)  Built in Modules
 # (ii) External Modules
 
-#3 How to install those packages 
+# 3 How to install those packages
 
 # Open Powershell or any terminal
-## Run "pip install pandas"
+# Run "pip install pkg_name"
+# ex1- "pip install pandas"
 
 # To check the version of python, run "python"
 
