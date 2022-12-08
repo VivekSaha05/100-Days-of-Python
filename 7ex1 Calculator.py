@@ -1,4 +1,4 @@
-# Exercise 1 - Calculator (WITHOUT IF ELSE)
+# Exercise 1 - Calculator (WITHOUT user input and if else)
 # simple add,sub,mul,div
 
 a = 60
