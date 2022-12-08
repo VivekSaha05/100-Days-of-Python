@@ -1,8 +1,6 @@
-'''
-IN PYTHON EVERYTHING IS AN "OBJECT". EVERYTHING MEANS EVERYTHING.
-'''
-
 # VARIABLE AND DATA TYPE
+# IN PYTHON EVERYTHING IS AN "OBJECT". EVERYTHING MEANS EVERYTHING.
+
 '''
 VARIABLE is like container. just put data inside container.
 DATATYPE is simple types of data that we are going to store in a container.
