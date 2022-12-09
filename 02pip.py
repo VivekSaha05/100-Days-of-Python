@@ -12,7 +12,8 @@
 
 # To check the version of python, run "python"
 
-# to upgrade the package we use "pip install --upgrade sklearn"
+# to upgrade the package we use "pip install --upgrade pkg_name"
+# ex- "pip install --upgrade sklearn"
 
 # R - READ
 # E - EVALUATE
