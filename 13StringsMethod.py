@@ -10,5 +10,8 @@ name = "VivekSaha"
 print(name.upper())  # uppercase
 print(name.lower())  # lowercase
 
-name2 = "op bhai !!!!!"
-print(name2.rstrip("!"))
+name2 = "!!!!! op bhai !!!!!"
+print(name2.rstrip("!"))  # rstrip remove from end only
+
+name3 = "replce"
+print(name3.replace("replce", "replace"))
