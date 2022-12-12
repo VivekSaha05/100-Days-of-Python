@@ -13,5 +13,5 @@ print(name.lower())  # lowercase
 name2 = "!!!!! op bhai !!!!!"
 print(name2.rstrip("!"))  # rstrip remove from end only
 
-name3 = "replce"
-print(name3.replace("replce", "replace"))
+name3 = "bibek"
+print(name3.replace("bibek", "vivek"))  # replace name3 with new name
