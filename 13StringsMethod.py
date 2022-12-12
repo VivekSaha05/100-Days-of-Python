@@ -9,3 +9,6 @@ Strings are immutable.
 name = "VivekSaha"
 print(name.upper())  # uppercase
 print(name.lower())  # lowercase
+
+name2 = "op bhai !!!!!"
+print(name2.rstrip("!"))
