@@ -22,4 +22,6 @@ print(name3.capitalize())  # will make 1st letter of word capital
 
 print(name.center(20))  # will add 20 more space in front
 
+print(name2.count("!"))  # will count ! in name2
+
 
