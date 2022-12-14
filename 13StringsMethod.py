@@ -20,3 +20,6 @@ print(name2.split(" "))  # splits the word inside []
 
 print(name3.capitalize())  # will make 1st letter of word capital
 
+print(name.center(20))  # will add 20 more space in front
+
+
