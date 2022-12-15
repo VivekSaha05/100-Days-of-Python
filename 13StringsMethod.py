@@ -38,6 +38,8 @@ print(name2.isalpha())  # same as isalnum but not requires 0-9 property
 
 print(name2.islower())  # is every character in lower or not
 
+print(name2.isprintable())  # printable or not, give false if there is \n
 
+print(name2.isspace())  # true if there is empty space
 
 
