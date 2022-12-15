@@ -32,3 +32,7 @@ print(name2.find("a"))  # will find first occurrence
 
 print(name2.index("bhai"))  # same as find but will raise exception if not found
 
+print(name2.isalnum())  # throw true only if string made up of A-Z, a-z, 0-9
+
+
+
