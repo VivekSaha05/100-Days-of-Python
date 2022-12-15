@@ -24,6 +24,8 @@ print(name.center(20))  # will add 20 more space in front
 
 print(name2.count("!"))  # will count ! in name2
 
-print(name2.endswith("!"))  # does it end with this "" ?
+print(name2.endswith("!"))  # does it end with this "" ? (true or false)
+
+print(name2.endswith("!", 10, 19))  # can give specific location
 
 
