@@ -46,6 +46,6 @@ print(name2.istitle())  # check if first letter of each word is capital or not
 
 print(name2.isupper())  # is every character upper or not
 
-print
+print(name2.startswith("op"))
 
 
