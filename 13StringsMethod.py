@@ -50,6 +50,6 @@ print(name2.startswith("op"))  # does it starts with op
 
 print(name2.swapcase())  # swap upper to lower and vice versa
 
-
+print(name2.title())  # capitalize all words first letter  --imp
 
 
