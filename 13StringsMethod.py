@@ -28,4 +28,7 @@ print(name2.endswith("!"))  # does it end with this "" ? (true or false)
 
 print(name2.endswith("!", 10, 19))  # can give specific location
 
+print(name2.find("a"))  # will find first occurrence
+
+print(name2.index("bhai"))  # same as find but will raise exception if not found
 
