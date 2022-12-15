@@ -42,4 +42,10 @@ print(name2.isprintable())  # printable or not, give false if there is \n
 
 print(name2.isspace())  # true if there is empty space
 
+print(name2.istitle())  # check if first letter of each word is capital or not
+
+print(name2.isupper())  # is every character upper or not
+
+print
+
 
