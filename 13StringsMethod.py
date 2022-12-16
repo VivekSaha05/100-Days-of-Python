@@ -18,7 +18,11 @@ print(name3.replace("bibek", "vivek"))  # replace name3 with new name
 
 print(name2.split(" "))  # splits the word inside []
 
+print(name2.title())  # capitalize all words first letter
+
 print(name3.capitalize())  # will make 1st letter of word capital
+
+print(name2.istitle())  # check if first letter of each word is capital or not
 
 print(name.center(20))  # will add 20 more space in front
 
@@ -38,16 +42,12 @@ print(name2.isalpha())  # same as isalnum but not requires 0-9 property
 
 print(name2.islower())  # is every character in lower or not
 
+print(name2.isupper())  # is every character upper or not
+
+print(name2.swapcase())  # swap upper to lower and vice versa
+
 print(name2.isprintable())  # printable or not, give false if there is \n
 
 print(name2.isspace())  # true if there is empty space
 
-print(name2.istitle())  # check if first letter of each word is capital or not
-
-print(name2.isupper())  # is every character upper or not
-
 print(name2.startswith("op"))  # does it start with op
-
-print(name2.swapcase())  # swap upper to lower and vice versa
-
-print(name2.title())  # capitalize all words first letter  --imp
