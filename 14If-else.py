@@ -9,6 +9,7 @@ Conditional operator :
 a = int(input("Enter a number to check the satisfy:"))
 print(a == 18)
 print(a > 18)
+print(a < 18)
 print(a >= 18)
 print(a <= 18)
 print(a != 18)
