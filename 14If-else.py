@@ -6,13 +6,13 @@ if, if-else, if-else-elif, nested if-else-elif
 Conditional operator :
 >, <, <=, >=, ==, != (! =)
 """
-# a = int(input("Enter a number to check the satisfy:"))
-# print(a == 18)
-# print(a > 18)
-# print(a < 18)
-# print(a >= 18)
-# print(a <= 18)
-# print(a != 18)
+a = int(input("Enter a number to check the satisfy:"))
+print(a == 18)
+print(a > 18)
+print(a < 18)
+print(a >= 18)
+print(a <= 18)
+print(a != 18)
 
 # If-else condition
 age = int(input("Enter Your age:"))
