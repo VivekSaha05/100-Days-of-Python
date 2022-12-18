@@ -19,7 +19,7 @@ age = int(input("Enter Your age:"))
 print("Your age is", age)
 if age > 18:  # can add age>18 inside ()
     print("you can drive")
-elif age >= 18:
+elif age >= 18:  # elif condition
     print("Kuddos...just passed")
 else:
     print("You can't drive")
