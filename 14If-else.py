@@ -24,3 +24,5 @@ elif age >= 18:  # elif condition
     print("Kudos...just passed")
 else:
     print("You can't drive")
+
+    print(hello)
