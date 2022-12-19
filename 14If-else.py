@@ -20,6 +20,6 @@ print("Your age is", age)
 if age > 18:  # can add age>18 inside ()
     print("you can drive")
 elif age >= 18:  # elif condition
-    print("Kuddos...just passed")
+    print("Kudos...just passed")
 else:
     print("You can't drive")
