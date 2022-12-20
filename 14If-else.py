@@ -15,6 +15,7 @@ print(a <= 18)
 print(a != 18)
 
 # If-else condition
+
 age = int(input("Enter Your age:"))
 print("Your age is", age)
 if age > 18:  # can add age>18 inside ()
