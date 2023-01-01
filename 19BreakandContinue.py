@@ -17,7 +17,7 @@ for i in range(12):
 # break - whole loop breaks
 
 # Do-while loop evault using break
-#updated1
+#updated2
 
 i = 0
 while True:
