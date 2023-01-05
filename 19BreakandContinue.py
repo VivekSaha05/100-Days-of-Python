@@ -17,9 +17,9 @@
 # continue - skip the iteration / condition
 # break - breaks the loop completely
 
-# Do-while loop evault using break
-
-i = 0
+# Do-while loop emulate using break
+# do-while - aak baar to chalega he then condition aayega
+i = 1
 while True:
     print(i)
     i = i + 1
