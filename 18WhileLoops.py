@@ -16,7 +16,7 @@ while a > 0:  # Decrementing loop
     a = a - 1  # if + then infinite loop
 
 # Else with While Loop
-b = 5
+b = int(input("Enter a +ve number:"))
 while b > 0:
     print(b)
     b = b - 1
