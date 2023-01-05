@@ -17,4 +17,11 @@ b = 6
 # print(mean1)
 calmean(a, b)  # called function
 
+# again for another value
+
+c = 7
+d = 8
+# mean2 = (c*d)/(c+d)  # same formula but different variable
+# print(mean2)
+calmean(c, d)  # called function
 
