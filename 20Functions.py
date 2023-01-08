@@ -10,7 +10,7 @@ min(), max(), len(), sum(), type(), range(), dict(), list(), tuple(), set(), pri
 
 # ex:
 def calmean(a, b):  # we will call this function
-    mean = (a*b)/(a+b)
+    mean = (a * b) / (a + b)
     print(mean)
 
 def isgreater(a, b):
@@ -30,11 +30,9 @@ calmean(a, b)  # called function
 isgreater(a, b)
 
 # again for another value
-
 c = 7
 d = 70
 # mean2 = (c*d)/(c+d)  # same formula but different variable
 # print(mean2)
 calmean(c, d)  # called function
 isgreater(c, d)
-
