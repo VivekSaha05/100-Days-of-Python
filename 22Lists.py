@@ -8,7 +8,15 @@ print(lst1[-3])  # negative indexing
 # = print(lst1[len(lst1)-3])  # same as upper index code
 # = print(lst1[6-3]) i.e red is at 3rd position
 
-if 4 in lst1:
+if 4 in lst1:  # [if "Red"] can be considered too or/ [if "ed" in "Red"]
     print("yes")
 else:
     print("no")
+
+lst2 = [9, 8, 7, 6, "Vivek", "Harry", "Chomu"]
+print(lst2)
+print(lst2[:])     # prints all
+print(lst2[1:])    # will neglate 1st value
+print(lst2[:1])    # will only print 1st Value
+print(lst2[1:4])   # will print from 2nd to 4th position, neglate 1st and remaining position after 4th
+print(lst2[1:-3])  # make it first positive index and upper one will be same
