@@ -28,12 +28,12 @@ print(lst2[1:4:3])  # will jump by 3 values
 # LIST COMPREHENSION
 
 # exp1:
-lst3 = [i in i in range(10)]  # will print from 0-9
-print(lst3)
-lst3 = [i*i in i in range(5)]  # here i = 0,1,2,3,4,....n will be directly multiplies / squaring
-print(lst3)
-lst3 = [i in i in range(10) if i%2==0]  # only show number divi by 2 i.e. 2,4,6,8,10
-print(lst3)
+# lst2 = [i*i in list in range(10)]  # will print from 0-9
+# print(lst2)
+# lst3 = [i*i in list in range(5)]  # here i = 0,1,2,3,4,....n will be directly multiplies / squaring
+# print(lst3)
+# lst3 = [for i in list in range(10) if i%2==0]  # only show number divi by 2 i.e. 2,4,6,8,10
+# print(lst3)
 
 #exp2:
 names = ["Milo", "Sarah", "Bruno", "Anastasia", "Rosa"]
