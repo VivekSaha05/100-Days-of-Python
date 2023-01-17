@@ -5,8 +5,8 @@ passing an argument to a function
 as a tuple or dictionary
 """
 
-# def average(a=2, b=4):  # default argument is 2 and 4 respectively
-#     print("the avrg is ", (a+b)/2)
+def average(a=2, b=4):  # default argument is 2 and 4 respectively
+    print("the avrg is ", (a+b)/2)
 
 # average()  # will take default argument
 # average(4)  # value of a=4 and b wil be default
@@ -24,9 +24,8 @@ avr(50,10)
 
 # def avr(**numbers)  # ** will take as dictionary
 
-# return statement
-
+# Return statement
 def name(fname, mname, lname):
     return "Hello, " + fname + " " + mname + " " + lname
-
+     # Will return the value of the expression back to calling function
 print(name("James", "Buchanan", "Barnes"))
