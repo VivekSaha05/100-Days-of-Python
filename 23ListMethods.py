@@ -25,8 +25,15 @@ print(num.count(1))  # will count it occurance
 # note - by default list is false i.e. is in ascending order. (chota se bada)
 
 colors = ["violet", "indigo", "blue", "green"]
+colors2 = ["black", "white"]
 newlist = colors.copy()
 colors.sort()  # sorted wrt alphabets
 print(colors)
 print(newlist)
+colors.insert(1, "red")  # will insert at position 1
+print(colors)
+colors.extend(colors2)  # will extend/ merge both list
+print(colors)
 
+newcolor = colors + colors2
+print(newcolor)
